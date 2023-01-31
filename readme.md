@@ -4,13 +4,13 @@ Installation
 ### Source code
 Clone the repository wherever you prefer
     
-        git clone https://github.com/xxx/InfillingTransformerRealTime
+        git clone https://github.com/AnonUserGit/TGI_VST.git
         
 ### Python Environment Setup (using venv) 
 
 Then, open the terminal and navigate to the project folder
     
-    cd InfillingTransformerRealTime
+    cd TGI_VST
     
 Now create a virtual environment for installing the dependencies
 
